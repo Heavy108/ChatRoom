@@ -86,7 +86,7 @@
 
 .button:disabled {
   opacity: 0.5;
-  cursor: not-allowed;a/* ChatBox.module.css */
+  cursor: not-allowed;
 
   .chatBoxRoot {
     --background-color: #1e1e2e;
